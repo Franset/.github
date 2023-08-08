@@ -3,6 +3,4 @@
 ## Некоммерческая организация, занимающаяся разработкой плагинов для серверов Minecraft. В частности разработкой и запуском игровых серверов Minecraft. Ведём свою деятельность начиная с 2022 года.
 
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Franset&theme=dark&background=000000"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franset&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franset&show_icons=true&theme=radical)
