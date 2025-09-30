@@ -4,6 +4,6 @@
 Штат сотрудников: 1
 
 ## Наши соц-сети
-Telegram: -
-Discord: -
+Telegram: -  
+Discord: -  
 Vk: -
