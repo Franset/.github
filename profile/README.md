@@ -4,6 +4,7 @@
 Franset Studios - это организация, которая занимается разработкой сборок и плагинов для серверов Minecraft
 
 ## Наши соц-сети
-Telegram: -  
-Discord: -  
-Vk: -
+Телеграм: [КЛИК](https://t.me/franset_studios)
+Дискорд: -  
+ВК: -
+Сайт: WIP
