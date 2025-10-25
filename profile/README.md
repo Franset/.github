@@ -5,6 +5,6 @@ Franset Studios - это организация, которая занимает
 
 ## Наши соц-сети
 Телеграм: [КЛИК](https://t.me/franset_studios)   
-Дискорд: -  
-ВК: -
+Дискорд: [КЛИК](https://discord.gg/JJx3HGwyqd)  
+ВК: -   
 Сайт: WIP
